@@ -1,5 +1,4 @@
-# ME401-Hinf-control-aircraft-dynamics
-# ME 401 Exam 2: H-Infinity Control for Aircraft Dynamics  
+# ME 401: H-Infinity Control for Aircraft Dynamics  
 
 ## Description  
 This repository contains solutions for **ME 401 Exam 2**, focusing on **H-infinity control** applied to **longitudinal and lateral-directional aircraft dynamics**. The tasks involve designing **H-infinity state feedback controllers** to track specific flight commands and regulate stability parameters while optimizing performance using the gamma-iteration method.  
